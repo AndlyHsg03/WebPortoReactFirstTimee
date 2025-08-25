@@ -5,10 +5,13 @@
         "image" : "profilepic.jpg",
         "github" : "https://github.com/AndlyHsg03",
         "project" : "https://github.com/AndlyHsg03",
-        "bio" : "This is my bio section",
+        "bio" : "Halo! Saya Andly Sofian Hasugian, mahasiswa Ilmu Komputer semester 3 di Universitas Negeri Medan. Saat ini saya sedang mendalami pengembangan web (HTML, CSS, JavaScript, React, Node.js) dan terus belajar untuk mengembangkan keterampilan saya di bidang teknologi.",
         "contactmessage" : "Hello, here I am",
         "email" : "dlyhasugian@gmail.com",
         "phone" : "853-7431-4108",
+        "tanggalLahir" : "03 september 2006",
+        "hobby" : "Futsal dan bermain game",
+        "motto" : "Build. Break. Rebuild.",
         "address" : {
             "street" : "UNIMED",
             "city" : "Medan",
@@ -45,14 +48,14 @@
             {
                 "school" : "Universitas Negeri Medan",
                 "degree" : "Bachelor degree of Computer Science",
-                "firstSchool" : "Agustus 2024",
-                "description" : "I am student of Computer Science in UNIMED"
+                "firstSchool" : "Agustus 2024 - sekarang",
+                "description" : "Saya adalah mahasiswa Ilmu Komputer di Universitas Negeri Medan"
             },
             {
-                "school" : "SMA 1 Parlilitan",
+                "school" : "SMAN 1 Parlilitan",
                 "degree" : "Science",
-                "graduated" : "May 2024",
-                "description" : "Im joining Fisika Olympiad"
+                "graduated" : "2021 - 2024",
+                "description" : "Saya alumni dari SMAN 1 PARLILITAN"
             }
         ],
         "work" : [
@@ -70,23 +73,19 @@
         "skills" : [
             {
                 "name" : "Javascript",
-                "level" : "80%"
+                "level" : "77%"
             },
             {
                 "name" : "Python",
-                "level" : "60%"
+                "level" : "55%"
             },
             {
                 "name" : "ReactJS",
-                "level" : "80%"
-            },
-            {
-                "name" : "VueJS",
-                "level" : "60%"
+                "level" : "75%"
             },
             {
                 "name" : "NodeJs",
-                "level" : "80%"
+                "level" : "10%"
             },
             {
                 "name" : "HTML/CSS",
@@ -97,41 +96,25 @@
     "portofolio" : {
         "projects" : [
             {
-                "title" : "Canadian Wanderlust",
+                "title" : "Web Pertama Saya dengan React",
                 "category" : "My travel blog my post-university",
                 "image" : "01.jpg",
                 "url" : "https://www.canadianwanderlust.com"
             },
             {
-                "title" : "Fury Fighting Gear",
+                "title" : "Tamat Muncak di gunung sibayak (ROBLOX)",
                 "category" : "(offline now) A fighting gear company i started",
-                "image" : "02.jpg",
+                "image" : "02.png",
                 "url" : "http://www.timbakerdev.com"
             },
+            
             {
-                "title" : "Original Thai Food",
-                "category" : "Website I build for a restaurant I like in Thailand",
-                "image" : "03.jpg",
-                "url" : "http://www.timbakerdev.com"
-            },
-            {
-                "title":"Resume Website",
+                "title":"Karya ilmiah pertama saya",
                 "category":"A React based resume website template",
                 "image":"04.jpg",
                 "url":"http://www.timbakerdev.com"
-            },
-            {
-                "title":"Smirkspace",
-                "category":"(MVP Only) A React and Meteor based chat University project.",
-                "image":"05.jpg",
-                "url":"http://www.smirkspace.com"
-            },
-            {
-                "title":"Canadian Wanderlust",
-                "category":"My Travel Blog for my post-university travels",
-                "image":"06.jpg",
-                "url":"https://www.canadianwanderlust.com"
             }
+           
         ]
     }
 }

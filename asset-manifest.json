@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WebPortoReactFirstTimee/static/css/main.31d6cfe0.css",
-    "main.js": "/WebPortoReactFirstTimee/static/js/main.3639be11.js",
-    "static/js/453.9b9ff51d.chunk.js": "/WebPortoReactFirstTimee/static/js/453.9b9ff51d.chunk.js",
-    "index.html": "/WebPortoReactFirstTimee/index.html",
-    "main.3639be11.js.map": "/WebPortoReactFirstTimee/static/js/main.3639be11.js.map",
-    "453.9b9ff51d.chunk.js.map": "/WebPortoReactFirstTimee/static/js/453.9b9ff51d.chunk.js.map"
+    "main.css": "/WebBioAndly/static/css/main.31d6cfe0.css",
+    "main.js": "/WebBioAndly/static/js/main.13020861.js",
+    "static/js/453.9b9ff51d.chunk.js": "/WebBioAndly/static/js/453.9b9ff51d.chunk.js",
+    "index.html": "/WebBioAndly/index.html",
+    "main.13020861.js.map": "/WebBioAndly/static/js/main.13020861.js.map",
+    "453.9b9ff51d.chunk.js.map": "/WebBioAndly/static/js/453.9b9ff51d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.3639be11.js"
+    "static/js/main.13020861.js"
   ]
 }
